@@ -58,4 +58,41 @@
 <br>
 
 > # *Learn any CSS Framework* 
-+ <p></p>
++ # ***These are the most popular ones***
+
+
+    + [Bootstrap]()
+    + [Tailwind]()
+    + [Materialize]()
+    + [Bulma]()
+    + [Semantic UI]()
+    + [Foundation]()
+
+ <br>
+
+ > # *Learn any CSS Preprocessor* 
++ # ***Mostly SASS and SCSS***
+
+    + [Bootstrap]()
+    + [Tailwind]()
+    + [Materialize]()
+    + [Bulma]()
+    + [Semantic UI]()
+    + [Foundation]()
+
+ <br>
+
++ > # *Learn basic usage of Version Control System* 
+
+    + [Git]()
+    + [GitHUb]()
+
+ <br>
+
++ # ***Learn basic usage of Package Managers***
+
+    + [NPM]()
+    + [Yarn]()
+
+ <br>
+
